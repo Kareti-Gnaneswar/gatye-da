@@ -113,36 +113,10 @@ To ensure a smooth and efficient learning experience, we've structured the repos
   * Interview 
 
 ```
-🤝 **Contributions**
-
-**A Warm Invitation to Support and Share: Star the Repo and Spread the Word**
-
-Please consider starring 🌟 the repo and sharing it with others who might be interested. 
-This repository is a collaborative effort, and we welcome contributions from the community. If you find any errors, have additional resources to share, or want to improve existing content, feel free to contribute through pull requests.
-
----
-🚀  Looking for contributors
-
-Calling Data Science & AI folks!
-
-Join the team as official contributor for DSAI-GATE prep resource. Elevate your expertise by contributing to this repository. \
-Your knowledge or years of industry experience is invaluable. Claim your spot now: Contribute to DSAI-GATE. Let's shape the future of GATE prep together! 💼📚 #DSAI #GATE2024
-
-link for interested contributor --> [Registeration-form](https://forms.gle/MrTQdBaPXFhpn1NN9) 
 
 
-### How to Contribute
 
-1. Choose a topic or sub-topic that interests you from the syllabus.
-2. Create comprehensive notes or resources for that topic.
-3. If your content is ready, submit a pull request or open an issue to indicate your contribution.
-4. Collaborate with the community to enhance and refine the content.
 
-For any questions or clarifications, feel free to [reach out](https://github.com/DS-AI-GATE/dsai-gate/issues/3)!
-
-Join our [Discord Server](https://discord.com/invite/N5Wgn9ygDF) for real-time interactions with fellow contributors.
----
-### Contributors
 <table>
 <tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
